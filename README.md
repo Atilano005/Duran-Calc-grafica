@@ -1,4 +1,4 @@
-# Duran [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+# Duran [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Calculadora con capacidades de graficar funciones hecha en python, interfaz grafica en tkinter y graficos dem matplotlib.
 
