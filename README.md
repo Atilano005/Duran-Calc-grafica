@@ -6,8 +6,8 @@ Calculadora con capacidades de graficar funciones hecha en python, interfaz graf
 
 funcionamiento estandard de calculadora de dos lineas con memoria de un (1) operacion previa. Es posible usar el teclado o los botones de la interfaz para describir las opeaciones a realizar. el campo a la derecha mustra las funciones escritas en el campo de operaciones tras pesionar el boton "Plot" en la interfaz
 
-<img width="715" height="439" alt="duran screenshot 1" src="https://github.com/user-attachments/assets/fa03e47f-b0ab-4843-a652-57db44069fc9" />
 
+![duran screenshot 2](https://github.com/user-attachments/assets/6f655fc9-babd-4244-946b-19e756afa724)
 
 
 ## Uso e instalación
